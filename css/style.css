@@ -141,7 +141,6 @@ h1, h2, h3, h4
     position: relative;
     width: 100%;
     aspect-ratio: 1;
-    box-shadow: rgba(0, 0, 0, 0.7) 0px 2px 6px;
     transition: opacity .25s ease-in-out;
 }
 .cover-item-fg
